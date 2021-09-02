@@ -6,3 +6,7 @@ body{
 h1{ 
    color: rosybrown; 
 }
+
+h2{
+    padding: 10px;
+}
