@@ -4,9 +4,11 @@ body{
 }
 
 h1{ 
-   color: rosybrown; 
+   color:green; 
+   
 }
 
 h2{
     padding: 10px;
+    text-decoration: line-through;
 }
